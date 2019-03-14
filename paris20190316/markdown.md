@@ -4,15 +4,22 @@ class: center, middle
 
 ---
 
-# Agenda
+# Plan
 
-1. Introduction
-2. Deep-dive
-3. ...
+1. Présentation
+2. Atelier
+3. Twitter
+4. Medtwitter
+5. \#DocTocToc
+6. Confidentialité, éthique, pseudonymat
+7. MG
+8. Spécialistes
+9. Interpro (sage-femme, pharmacien, kiné, IDE...)
+10. Affichage des 3/4 cas cliniques
 
 ---
 
-# Introduction
+# Présentation
 
 
 ---
