@@ -38,10 +38,10 @@ Option: 30 mn (prolongations)
 
 ### Références
 
-[doc_martin_p]: doc_martin_p.jpeg ""
-[FlBontemps]: FlBontemps.jpg ""
-[MedecineLibre]: MedecineLibre.jpg ""
-[nb54000]: nb54000.jpg ""
+[doc_martin_p]: doc_martin_p.jpeg "PP"
+[FlBontemps]: FlBontemps.jpg "PP"
+[MedecineLibre]: MedecineLibre.jpg "PP"
+[nb54000]: nb54000.jpg "PP"
 
 ---
 
