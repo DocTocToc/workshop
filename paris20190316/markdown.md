@@ -29,8 +29,8 @@ Option: 30 mn (prolongations)
 
 ---
 
-# Présentation
-
+# Atelier \#DocTocToc
+Les gentils organisateurs.
 
 | @doc_martin_p    || @FlBontemps   || @MedecineLibre  || @nb54000   |
 | :-------------:  ||:------------:|| :-------------:||:----------:|
