@@ -31,10 +31,18 @@ Option: 30 mn (prolongations)
 
 # Présentation
 
+<link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.6.0/pure-min.css">
+<style>
+.smaller-font { font-size:14px } 
+</style>
+
+.pure-table.pure-table-bordered.pure-table-striped.smaller-font[
+
 | @doc_martin_p   | @FlBontemps   | @MedecineLibre  | @nb54000   |
 | :-------------:  |:------------:| :-------------:|:----------:|
-| MG            | pharma        | dev & MG       |chir ORL
-| ![][doc_martin_p] | ![][FlBontemps] | ![][MedecineLibre] | ![][nb54000]
+| MG            | pharma        | dev & MG       |chir ORL |
+| ![][doc_martin_p] | ![][FlBontemps] | ![][MedecineLibre] | ![][nb54000] |
+]
 
 ### Références
 
