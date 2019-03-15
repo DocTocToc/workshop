@@ -31,18 +31,15 @@ Option: 30 mn (prolongations)
 
 # Présentation
 
-## @doc_martin_p
-médecin généraliste
+| @doc_martin_p   | @FlBontemps   | @MedecineLibre  | @nb54000   |
+| :-------------:  |:------------:| :-------------:|:----------:|
+| MG            | pharma        | dev & MG       |chir ORL
+| ![][doc_martin_p] | ![][FlBontemps] | ![][MedecineLibre] | ![][nb54000]
 
-## @FlBontemps
-pharmacienne
-
-## @nb54000
-chirurgien ORL
-
-## @medecinelibre
-développeur, médecin généraliste
-
+[doc_martin_p]: https://pbs.twimg.com/profile_images/3601620365/61f37f530b68753dd35fbd6fecb4aa1d_bigger.jpeg
+[FlBontemps]: https://pbs.twimg.com/profile_images/1081116738572431360/wCSLdNcJ_bigger.jpg
+[MedecineLibre]: https://pbs.twimg.com/profile_images/938108649960067072/qVSS85Id_bigger.jpg
+[nb54000]: https://pbs.twimg.com/profile_images/1035487241018195969/-nmEk5wy_bigger.jpg
 ---
 
 # Twitter - Intro
