@@ -36,6 +36,8 @@ Option: 30 mn (prolongations)
 | MG            | pharma        | dev & MG       |chir ORL
 | ![pic][doc_martin_p] | ![pic][FlBontemps] | ![pic][MedecineLibre] | ![pic][nb54000]
 
+### Références
+
 [doc_martin_p]: doc_martin_p.jpeg ""
 [FlBontemps]: FlBontemps.jpg ""
 [MedecineLibre]: MedecineLibre.jpg ""
