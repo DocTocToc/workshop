@@ -34,7 +34,7 @@ Option: 30 mn (prolongations)
 | @doc_martin_p   | @FlBontemps   | @MedecineLibre  | @nb54000   |
 | :-------------:  |:------------:| :-------------:|:----------:|
 | MG            | pharma        | dev & MG       |chir ORL
-| ![pic][doc_martin_p] | ![pic][FlBontemps] | ![pic][MedecineLibre] | ![pic][nb54000]
+| ![][doc_martin_p] | ![][FlBontemps] | ![][MedecineLibre] | ![][nb54000]
 
 ### Références
 
