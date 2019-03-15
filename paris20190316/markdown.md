@@ -36,10 +36,11 @@ Option: 30 mn (prolongations)
 | MG            | pharma        | dev & MG       |chir ORL
 | ![][doc_martin_p] | ![][FlBontemps] | ![][MedecineLibre] | ![][nb54000]
 
-[doc_martin_p]: doc_martin_p.jpeg
-[FlBontemps]: FlBontemps.jpg
-[MedecineLibre]: MedecineLibre.jpg
-[nb54000]: nb54000.jpg
+[doc_martin_p]: doc_martin_p.jpeg ""
+[FlBontemps]: FlBontemps.jpg ""
+[MedecineLibre]: MedecineLibre.jpg ""
+[nb54000]: nb54000.jpg ""
+
 ---
 
 # Twitter - Intro
